@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dirgh21
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Dirgh21, and this is IT490-030
+- 👀 I’m interested in playing football.
+- 🌱 I’m currently learning system integration.
+- 💞️ I’m looking to earn A+ certification in this semester.
 - 📫 How to reach me ...
 
 <!---
